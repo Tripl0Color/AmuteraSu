@@ -1,4 +1,4 @@
-# AmuteraSu
+# AmuteraSu b1
 Crash vk chats,vk wall's
 
 by:
